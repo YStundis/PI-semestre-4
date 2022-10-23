@@ -1,77 +1,54 @@
 {
-  "name": "nacional_w_imoveis",
-  "description": "Site de vendas de imóveis",
-  "main": "index.js",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/ct-material-kit-react/issues"
+  "name": "material-kit",
+  "version": "3.0.4",
+  "description": "Freebie UI Kit for Bootstrap 5",
+  "main": "index.html",
+  "directories": {
+    "example": "root"
+  },
+  "scripts": {
+    "open-app": "gulp open-app",
+    "start": "npm run open-app",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "gulp-watch"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/ct-material-kit-react.git"
+    "url": "git+https://github.com/creativetimofficial/material-kit.git"
   },
-  "engines": {
-    "node": "14 || 15 || 16",
-    "npm": ">=6"
-  },
-  "dependencies": {
-    "@emotion/cache": "11.4.0",
-    "@emotion/react": "11.4.1",
-    "@emotion/styled": "11.3.0",
-    "@mui/icons-material": "5.2.0",
-    "@mui/material": "5.2.0",
-    "@mui/styled-engine": "5.2.0",
-    "@testing-library/jest-dom": "5.11.4",
-    "@testing-library/react": "11.1.0",
-    "@testing-library/user-event": "12.1.10",
-    "chroma-js": "2.1.2",
-    "flatpickr": "4.6.9",
-    "prop-types": "15.7.2",
-    "react": "17.0.2",
-    "react-copy-to-clipboard": "5.0.4",
-    "react-countup": "6.1.0",
-    "react-dom": "17.0.2",
-    "react-flatpickr": "3.10.7",
-    "react-router-dom": "6.0.2",
-    "react-scripts": "4.0.3",
-    "react-syntax-highlighter": "15.4.5",
-    "web-vitals": "1.0.1"
-  },
-
-  "scripts": {
-    "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "keywords": [
+    "material kit 2",
+    "bootstrap 5",
+    "design system",
+    "ui kit",
+    "creative tim",
+    "html kit",
+    "html css kit",
+    "web kit",
+    "freebie",
+    "free bootstrap kit",
+    "css3 kit",
+    "bootstrap design system",
+    "frontend",
+    "responsive bootstrap kit"
+  ],
+  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creativetimofficial/material-kit/issues"
   },
   "devDependencies": {
-    "eslint": "7.30.0",
-    "eslint-config-airbnb": "18.2.1",
-    "eslint-config-prettier": "8.3.0",
-    "eslint-plugin-import": "2.23.4",
-    "eslint-plugin-jsx-a11y": "6.4.1",
-    "eslint-plugin-prettier": "3.4.0",
-    "eslint-plugin-react": "7.24.0",
-    "eslint-plugin-react-hooks": "4.2.0",
-    "prettier": "2.3.2"
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-install": "^1.1.0",
+    "gulp-open": "^3.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "sass": "^1.49.9"
+  },
+  "homepage": "https://creative-tim.com/product/material-kit",
+  "dependencies": {
+    "jquery": "^3.6.1"
   }
 }

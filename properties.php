@@ -410,31 +410,31 @@
         <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
             <div class="property-item mb-30">
-              <a href="property-single.php" class="img">
-                <img src="images/img_1.jpg" alt="Image" class="img-fluid" />
+              <a href="CasaResidencialAlphaville.php" class="img">
+                <img src="images/Casa,Residencial,Alphaville,8dormitório(s)1.png" alt="Image" class="img-fluid" />
               </a>
 
               <div class="property-content">
-                <div class="price mb-2"><span>$1,291,000</span></div>
+                <div class="price mb-2"><span>$1.790.000</span></div>
                 <div>
                   <span class="d-block mb-2 text-black-50"
-                    >5232 California Fake, Ave. 21BC</span
+                    >Alameda Umuarama, nº 42, Residencial Alphaville 12, Santana de Paranaíba/SP</span
                   >
-                  <span class="city d-block mb-3">California, USA</span>
+                  <span class="city d-block mb-3">Casa, Residencial, Alphaville</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
                       <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <span class="caption">8 beds</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <span class="caption">5 baths</span>
                     </span>
                   </div>
 
                   <a
-                    href="property-single.php"
+                    href="CasaResidencialAlphaville.php"
                     class="btn btn-primary py-2 px-3"
                     >See details</a
                   >
@@ -445,31 +445,31 @@
           </div>
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
             <div class="property-item mb-30">
-              <a href="property-single.php" class="img">
-                <img src="images/img_2.jpg" alt="Image" class="img-fluid" />
+              <a href="ApartamentoResidencialSantaCecilia.php" class="img">
+                <img src="images/Apartamento,Residencial,SantaCecilia,5vaga(s)degaragem1.png" alt="Image" class="img-fluid" />
               </a>
 
               <div class="property-content">
-                <div class="price mb-2"><span>$1,291,000</span></div>
+                <div class="price mb-2"><span>$4.000.000</span></div>
                 <div>
                   <span class="d-block mb-2 text-black-50"
-                    >5232 California Fake, Ave. 21BC</span
+                    >Rua Tupi, n° 275, Apt Duplex 251, Edifício Maison Nathalie, Santa Cecilia, São Paulo/SP</span
                   >
-                  <span class="city d-block mb-3">California, USA</span>
+                  <span class="city d-block mb-3">Apartamento, Residencial, Santa Cecilia</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
                       <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <span class="caption">4 beds</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <span class="caption">6 baths</span>
                     </span>
                   </div>
 
                   <a
-                    href="property-single.php"
+                    href="ApartamentoResidencialSantaCecilia.php"
                     class="btn btn-primary py-2 px-3"
                     >See details</a
                   >
@@ -480,31 +480,31 @@
           </div>
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
             <div class="property-item mb-30">
-              <a href="property-single.php" class="img">
-                <img src="images/img_3.jpg" alt="Image" class="img-fluid" />
+              <a href="CasaResidencialMorretes.php" class="img">
+                <img src="images/Casa,Residencial,Morretes1.png" alt="Image" class="img-fluid" />
               </a>
 
               <div class="property-content">
-                <div class="price mb-2"><span>$1,291,000</span></div>
+                <div class="price mb-2"><span>$1.272.000</span></div>
                 <div>
                   <span class="d-block mb-2 text-black-50"
-                    >5232 California Fake, Ave. 21BC</span
+                    >Rua 406 - G2, nº 30, Quadra 19, Lote 293-A, Morretes, Itapema, SC</span
                   >
-                  <span class="city d-block mb-3">California, USA</span>
+                  <span class="city d-block mb-3">Casa, Residencial, Morretes</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
                       <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <span class="caption">3 beds</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <span class="caption">3 baths</span>
                     </span>
                   </div>
 
                   <a
-                    href="property-single.php"
+                    href="CasaResidencialMorretes.php"
                     class="btn btn-primary py-2 px-3"
                     >See details</a
                   >
@@ -516,31 +516,31 @@
 
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
             <div class="property-item mb-30">
-              <a href="property-single.php" class="img">
-                <img src="images/img_4.jpg" alt="Image" class="img-fluid" />
+              <a href="CasaResidencialVilaBrasilioMachado.php" class="img">
+                <img src="images/Casa,Residencial,VilaBrasilioMachado,4dormitório(s),1vaga(s)degaragem1.png" alt="Image" class="img-fluid" />
               </a>
 
               <div class="property-content">
-                <div class="price mb-2"><span>$1,291,000</span></div>
+                <div class="price mb-2"><span>$735.600</span></div>
                 <div>
                   <span class="d-block mb-2 text-black-50"
-                    >5232 California Fake, Ave. 21BC</span
+                    >Rua João Mafra nº 527, Vila Brasílio Machado, São Paulo, SP</span
                   >
-                  <span class="city d-block mb-3">California, USA</span>
+                  <span class="city d-block mb-3">Casa, Residencial, Vila Brasilio Machado</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
                       <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <span class="caption">4 beds</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <span class="caption">3 baths</span>
                     </span>
                   </div>
 
                   <a
-                    href="property-single.php"
+                    href="CasaResidencialVilaBrasilioMachado.php"
                     class="btn btn-primary py-2 px-3"
                     >See details</a
                   >

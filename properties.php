@@ -120,156 +120,156 @@
                     </div>
                   </div>
                 </div>
-                <!-- .item -->
+                <!-- JardimLeonor.item -->
 
                 <div class="property-item">
-                  <a href="property-single.php" class="img">
-                    <img src="images/img_2.jpg" alt="Image" class="img-fluid" />
+                  <a href="CasaResidencialJardimLeonor.php" class="img">
+                    <img src="images/Casa,ResidencialLeonor1.png" alt="Image" class="img-fluid" />
                   </a>
 
                   <div class="property-content">
-                    <div class="price mb-2"><span>$1,291,000</span></div>
+                    <div class="price mb-2"><span>$2.625.000</span></div>
                     <div>
                       <span class="d-block mb-2 text-black-50"
-                        >5232 California Fake, Ave. 21BC</span
+                        >Rua Doutor Rui Tavares Monteiro, n°204, Quadra 92, Lote 06, Jardim Leonor</span
                       >
-                      <span class="city d-block mb-3">California, USA</span>
+                      <span class="city d-block mb-3">Casa Residencial, São Paulo - SP</span>
 
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
-                          <span class="caption">2 beds</span>
+                          <span class="caption">5 quarto(s)</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
                           <span class="icon-bath me-2"></span>
-                          <span class="caption">2 baths</span>
+                          <span class="caption">1 banheiro(s)</span>
                         </span>
                       </div>
 
                       <a
-                        href="property-single.php"
+                        href="CasaResidencialJardimLeonor.php"
                         class="btn btn-primary py-2 px-3"
                         >See details</a
                       >
                     </div>
                   </div>
                 </div>
-                <!-- .item -->
+                <!-- Vinhas da vista Alegre.item -->
 
                 <div class="property-item">
-                  <a href="property-single.php" class="img">
-                    <img src="images/img_3.jpg" alt="Image" class="img-fluid" />
+                  <a href="CasaResidencialVistaAlegre.php" class="img">
+                    <img src="images/Casa,ResidencialAlegre1.png" alt="Image" class="img-fluid" />
                   </a>
 
                   <div class="property-content">
-                    <div class="price mb-2"><span>$1,291,000</span></div>
+                    <div class="price mb-2"><span>$2.200.000</span></div>
                     <div>
                       <span class="d-block mb-2 text-black-50"
-                        >5232 California Fake, Ave. 21BC</span
+                        >Rua Jaguar, nº 279, Quadra 27, Lote 02, Condomínio Vista Alegre, Vinhas da Vista Alegre</span
                       >
-                      <span class="city d-block mb-3">California, USA</span>
+                      <span class="city d-block mb-3">Casa Residencial, Vinhedo - SP</span>
 
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
-                          <span class="caption">2 beds</span>
+                          <span class="caption">4 quarto(s)</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
                           <span class="icon-bath me-2"></span>
-                          <span class="caption">2 baths</span>
+                          <span class="caption">3 banheiro(s)</span>
                         </span>
                       </div>
 
                       <a
-                        href="property-single.php"
+                        href="CasaResidencialVistaAlegre.php"
                         class="btn btn-primary py-2 px-3"
                         >See details</a
                       >
                     </div>
                   </div>
                 </div>
-                <!-- .item -->
+                <!-- Aracaju.item -->
 
                 <div class="property-item">
-                  <a href="property-single.php" class="img">
-                    <img src="images/img_4.jpg" alt="Image" class="img-fluid" />
+                  <a href="ApartamentoResidencialAracaju.php" class="img">
+                    <img src="images/Apartamento,ResidencialAracaju1.png" alt="Image" class="img-fluid" />
                   </a>
 
                   <div class="property-content">
-                    <div class="price mb-2"><span>$1,291,000</span></div>
+                    <div class="price mb-2"><span>$360.000</span></div>
                     <div>
                       <span class="d-block mb-2 text-black-50"
-                        >5232 California Fake, Ave. 21BC</span
+                        >Rua dos Cravos, nº 47, Apt. 303, Edifício Ubyratan Maia Residence, Inácio Barbosa</span
                       >
-                      <span class="city d-block mb-3">California, USA</span>
+                      <span class="city d-block mb-3">Apartamento, Aracaju - SE</span>
 
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
-                          <span class="caption">2 beds</span>
+                          <span class="caption">3 quarto(s)</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
                           <span class="icon-bath me-2"></span>
-                          <span class="caption">2 baths</span>
+                          <span class="caption">1 banheiro(s)</span>
                         </span>
                       </div>
 
                       <a
-                        href="property-single.php"
+                        href="ApartamentoResidencialAracaju.php"
                         class="btn btn-primary py-2 px-3"
                         >See details</a
                       >
                     </div>
                   </div>
                 </div>
-                <!-- .item -->
+                <!-- Passa.item -->
 
                 <div class="property-item">
-                  <a href="property-single.php" class="img">
-                    <img src="images/img_5.jpg" alt="Image" class="img-fluid" />
+                  <a href="ApartamentoResidencialPassa.php" class="img">
+                    <img src="images/Apartamento,ResidencialPassa1.png" alt="Image" class="img-fluid" />
                   </a>
 
                   <div class="property-content">
-                    <div class="price mb-2"><span>$1,291,000</span></div>
+                    <div class="price mb-2"><span>$333.171</span></div>
                     <div>
                       <span class="d-block mb-2 text-black-50"
-                        >5232 California Fake, Ave. 21BC</span
+                        >Rua Najla Carone Goedert, 181, Condomínio Residencial Taranto, Unidade 805, CEP:88132-150</span
                       >
-                      <span class="city d-block mb-3">California, USA</span>
+                      <span class="city d-block mb-3">Apartamento, Palhoça - SC</span>
 
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
-                          <span class="caption">2 beds</span>
+                          <span class="caption">2 quarto(s)</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
                           <span class="icon-bath me-2"></span>
-                          <span class="caption">2 baths</span>
+                          <span class="caption">2 banheiro(s)</span>
                         </span>
                       </div>
 
                       <a
-                        href="property-single.php"
+                        href="ApartamentoResidencialPassa.php"
                         class="btn btn-primary py-2 px-3"
                         >See details</a
                       >
                     </div>
                   </div>
                 </div>
-                <!-- .item -->
+                <!-- Sãofrancisco.item -->
 
                 <div class="property-item">
-                  <a href="property-single.php" class="img">
-                    <img src="images/img_6.jpg" alt="Image" class="img-fluid" />
+                  <a href="green_Gables_SãoFrancisco_EUA.php" class="img">
+                    <img src="images\the_One_Bel_Air_nos_Estados_Unidos.jpg" alt="Image" class="img-fluid" />
                   </a>
 
                   <div class="property-content">
-                    <div class="price mb-2"><span>$1,291,000</span></div>
+                    <div class="price mb-2"><span>$120.000.000</span></div>
                     <div>
                       <span class="d-block mb-2 text-black-50"
-                        >5232 California Fake, Ave. 21BC</span
+                        >USA</span
                       >
-                      <span class="city d-block mb-3">California, USA</span>
+                      <span class="city d-block mb-3">Woodside, Califórnia</span>
 
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
@@ -283,7 +283,7 @@
                       </div>
 
                       <a
-                        href="property-single.php"
+                        href="green_Gables_SãoFrancisco_EUA.php"
                         class="btn btn-primary py-2 px-3"
                         >See details</a
                       >
@@ -425,11 +425,11 @@
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
                       <span class="icon-bed me-2"></span>
-                      <span class="caption">8 beds</span>
+                      <span class="caption">8 quarto(s)</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="icon-bath me-2"></span>
-                      <span class="caption">5 baths</span>
+                      <span class="caption">5 banheiro(s)</span>
                     </span>
                   </div>
 
@@ -441,7 +441,7 @@
                 </div>
               </div>
             </div>
-            <!-- .item -->
+            <!-- Santa Cecilia.item -->
           </div>
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
             <div class="property-item mb-30">
@@ -460,11 +460,11 @@
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
                       <span class="icon-bed me-2"></span>
-                      <span class="caption">4 beds</span>
+                      <span class="caption">4 quarto(s)</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="icon-bath me-2"></span>
-                      <span class="caption">6 baths</span>
+                      <span class="caption">6 banheiro(s)</span>
                     </span>
                   </div>
 
@@ -495,11 +495,11 @@
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
                       <span class="icon-bed me-2"></span>
-                      <span class="caption">3 beds</span>
+                      <span class="caption">3 quarto(s)</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="icon-bath me-2"></span>
-                      <span class="caption">3 baths</span>
+                      <span class="caption">3 banheiro(s)</span>
                     </span>
                   </div>
 
@@ -531,11 +531,11 @@
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
                       <span class="icon-bed me-2"></span>
-                      <span class="caption">4 beds</span>
+                      <span class="caption">4 quarto(s)</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="icon-bath me-2"></span>
-                      <span class="caption">3 baths</span>
+                      <span class="caption">3 banheiro(s)</span>
                     </span>
                   </div>
 

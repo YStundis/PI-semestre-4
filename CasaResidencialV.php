@@ -69,25 +69,25 @@
           <div class="col-lg-7">
             <div class="img-property-slide-wrap">
               <div class="img-property-slide">
-                <img src="images\postao_rua32_1.jpg" alt="Image" class="img-fluid" />
-                <img src="images\postao_rua32_2.jpg" alt="Image" class="img-fluid"  />
-                <img src="images\postao_rua32_3.jpg" alt="Image" class="img-fluid"  /> 
+                <img src="images/CasaResidencialV1.png" alt="Image" class="img-fluid" />
+                <img src="images/CasaResidencialV2.png" alt="Image" class="img-fluid" />
+                <img src="images/CasaResidencialV3.png" alt="Image" class="img-fluid" />
               </div>
             </div>
           </div>
           <!-- Fim do Carousel -->
           <div class="col-lg-4">
             <!-- Informação do Imóvel -->
-            <h2 class="heading text-primary">Postão, não possuiu garagem porém possui vaga de carga e descarga!</h2>
-            <p class="meta">Bairro Baroni, Barretos-SP</p>
+            <h2 class="heading text-primary">Casa, Residencial</h2>
+            <p class="meta">Av. Hussein Genha, Barretos, São Paulo</p>
             <p class="text-black-50">
-           Precisa de varias reformas, bem localizado.
+              Nesta casa já viveu um sujeito cujo é conhecido por muitos como Victor, mas tambem por trem bala, cascão, o cara que sempre ta atras de skins, mesmo já gastado 300,00 reais nelas, o pc que demorou a aula toda para mostrar o site, caçador de LED, etc. E tem um cachorro que as vezes aparece nessa casa, não sabemos o por que mas ele sempre ta meio lento e com os olhos vermelhos, cuidado com ele.  
             </p>
             <!-- Fim Informação do Imóvel -->
 
             <div class="d-flex d-inline-flex d-block agent-box col-12">
               <div class="d-flex justify-content-center col-6 pt-3">
-                <h5 style="color: green">R$ 1.000</h5>
+                <h5 style="color: green">R$ 250.000</h5>
               </div>
               <div class="d-flex justify-content-center col-6">
                 <button type="button" class="btn btn-success">Comprar</button>

@@ -69,25 +69,25 @@
           <div class="col-lg-7">
             <div class="img-property-slide-wrap">
               <div class="img-property-slide">
-                <img src="images\postao_rua32_1.jpg" alt="Image" class="img-fluid" />
-                <img src="images\postao_rua32_2.jpg" alt="Image" class="img-fluid"  />
-                <img src="images\postao_rua32_3.jpg" alt="Image" class="img-fluid"  /> 
+                <img src="images/CasaResidencialdasEstrelas1.png" alt="Image" class="img-fluid" />
+                <img src="images/CasaResidencialdasEstrelas2.png" alt="Image" class="img-fluid" />
+                <img src="images/CasaResidencialdasEstrelas3.png" alt="Image" class="img-fluid" />
               </div>
             </div>
           </div>
           <!-- Fim do Carousel -->
           <div class="col-lg-4">
             <!-- Informação do Imóvel -->
-            <h2 class="heading text-primary">Postão, não possuiu garagem porém possui vaga de carga e descarga!</h2>
-            <p class="meta">Bairro Baroni, Barretos-SP</p>
+            <h2 class="heading text-primary">Casa, Residencial, Residencial das Estrelas, 5 dormitório(s), 2 vaga(s) de garagem</h2>
+            <p class="meta">Alameda Régulus, nº 210, Loteamento Aldeia da Serra, Residencial Morada das Estrelas, Barueri/SP, CEP: 06429-050</p>
             <p class="text-black-50">
-           Precisa de varias reformas, bem localizado.
+             Casa, Residencial das Estrelas, Desocupado, contendo 5 dormitório(s), sendo 2 suíte(s), 2 vaga(s) de garagem, 4 banheiro(s), 1055.00 M² de área de terreno, 759.00 M² de área construída, 759.00 M² de área útil, 1055.00 M² de área total. Matrícula nº 113973. IPTU anual R$ 2.897,00, valor de condomínio mensal R$ 1.825,00.
             </p>
             <!-- Fim Informação do Imóvel -->
 
             <div class="d-flex d-inline-flex d-block agent-box col-12">
               <div class="d-flex justify-content-center col-6 pt-3">
-                <h5 style="color: green">R$ 1.000</h5>
+                <h5 style="color: green">R$ 1.830.000</h5>
               </div>
               <div class="d-flex justify-content-center col-6">
                 <button type="button" class="btn btn-success">Comprar</button>

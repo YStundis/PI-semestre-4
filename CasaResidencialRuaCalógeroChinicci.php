@@ -69,25 +69,25 @@
           <div class="col-lg-7">
             <div class="img-property-slide-wrap">
               <div class="img-property-slide">
-                <img src="images\postao_rua32_1.jpg" alt="Image" class="img-fluid" />
-                <img src="images\postao_rua32_2.jpg" alt="Image" class="img-fluid"  />
-                <img src="images\postao_rua32_3.jpg" alt="Image" class="img-fluid"  /> 
+                <img src="images/CasaResidencialRuaCalógeroChinicci1.png" alt="Image" class="img-fluid" />
+                <img src="images/CasaResidencialRuaCalógeroChinicci2.png" alt="Image" class="img-fluid" />
+                <img src="images/CasaResidencialRuaCalógeroChinicci3.png" alt="Image" class="img-fluid" />
               </div>
             </div>
           </div>
           <!-- Fim do Carousel -->
           <div class="col-lg-4">
             <!-- Informação do Imóvel -->
-            <h2 class="heading text-primary">Postão, não possuiu garagem porém possui vaga de carga e descarga!</h2>
-            <p class="meta">Bairro Baroni, Barretos-SP</p>
+            <h2 class="heading text-primary">Casa, Residencial, 3 dormitório(s), 3 vaga(s) de garagem</h2>
+            <p class="meta">Rua Calógero Chinicci, nº 513, Lote nº 09, Barra Funda, Leme, SP, CEP: 13617-220</p>
             <p class="text-black-50">
-           Precisa de varias reformas, bem localizado.
+              Casa, Desocupado, contendo 3 dormitório(s), 3 vaga(s) de garagem, 2 banheiro(s), 286.00 M² de área de terreno, 158.78 M² de área construída, 158.78 M² de área privativa, 158.78 M² de área total. Matrícula nº 22540, Cartório de Registro de Imóveis de Leme/SP., Inscrição Prefeitura 3.0460.0226.00. O imóvel avaliando está localizado no bairro Barra Funda , região predominantemente residencial. No local constatamos residências de médio padrão construtivo e idade aparente em torno de 20 anos. As principais vias de acesso são: Av. Joaquim Lopes Aguila e Av. João Arrais Seródio Filho. O Imóvel em estudo possui 158,78m² de área construída, sendo 130,78m² de edificação principal e 28,00m² de telheiro (espaço gourmet).
             </p>
             <!-- Fim Informação do Imóvel -->
 
             <div class="d-flex d-inline-flex d-block agent-box col-12">
               <div class="d-flex justify-content-center col-6 pt-3">
-                <h5 style="color: green">R$ 1.000</h5>
+                <h5 style="color: green">R$ 428.840</h5>
               </div>
               <div class="d-flex justify-content-center col-6">
                 <button type="button" class="btn btn-success">Comprar</button>

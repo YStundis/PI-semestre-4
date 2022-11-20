@@ -69,25 +69,25 @@
           <div class="col-lg-7">
             <div class="img-property-slide-wrap">
               <div class="img-property-slide">
-                <img src="images\postao_rua32_1.jpg" alt="Image" class="img-fluid" />
-                <img src="images\postao_rua32_2.jpg" alt="Image" class="img-fluid"  />
-                <img src="images\postao_rua32_3.jpg" alt="Image" class="img-fluid"  /> 
+                <img src="images/ApartamentoResidencialVilaAlpina1.png" alt="Image" class="img-fluid" />
+                <img src="images/ApartamentoResidencialVilaAlpina2.png" alt="Image" class="img-fluid" />
+                <img src="images/ApartamentoResidencialVilaAlpina3.png" alt="Image" class="img-fluid" />
               </div>
             </div>
           </div>
           <!-- Fim do Carousel -->
           <div class="col-lg-4">
             <!-- Informação do Imóvel -->
-            <h2 class="heading text-primary">Postão, não possuiu garagem porém possui vaga de carga e descarga!</h2>
-            <p class="meta">Bairro Baroni, Barretos-SP</p>
+            <h2 class="heading text-primary">Apartamento, Residencial, Vila Alpina, 3 dormitório(s), 2 vaga(s) de garagem</h2>
+            <p class="meta">Rua Joaquim Pereira Pinto, n° 82, Apt 21, Edifício Eurosa, Vila Alpina, São Paulo/SP, CEP: 03226-070</p>
             <p class="text-black-50">
-           Precisa de varias reformas, bem localizado.
+             Apartamento, Vila Alpina, Desocupado, contendo 3 dormitório(s), sendo 1 suíte(s), 2 vaga(s) de garagem, 4 banheiro(s), 275.00 M² de área de terreno, 137.00 M² de área construída, 137.00 M² de área útil, 275.00 M² de área total. Matrícula nº 130122. IPTU anual R$ 6.726,00, valor de condomínio mensal R$ 2.237,00.
             </p>
             <!-- Fim Informação do Imóvel -->
 
             <div class="d-flex d-inline-flex d-block agent-box col-12">
               <div class="d-flex justify-content-center col-6 pt-3">
-                <h5 style="color: green">R$ 1.000</h5>
+                <h5 style="color: green">R$ 700.000</h5>
               </div>
               <div class="d-flex justify-content-center col-6">
                 <button type="button" class="btn btn-success">Comprar</button>

@@ -90,40 +90,6 @@
               <div class="property-slider">
                 <div class="property-item">
                   <a href="property-single.php" class="img">
-                    <img src="images/img_1.jpg" alt="Image" class="img-fluid" />
-                  </a>
-
-                  <div class="property-content">
-                    <div class="price mb-2"><span>$1,291,000</span></div>
-                    <div>
-                      <span class="d-block mb-2 text-black-50"
-                        >5232 California Fake, Ave. 21BC</span
-                      >
-                      <span class="city d-block mb-3">California, USA</span>
-
-                      <div class="specs d-flex mb-4">
-                        <span class="d-block d-flex align-items-center me-3">
-                          <span class="icon-bed me-2"></span>
-                          <span class="caption">2 beds</span>
-                        </span>
-                        <span class="d-block d-flex align-items-center">
-                          <span class="icon-bath me-2"></span>
-                          <span class="caption">2 baths</span>
-                        </span>
-                      </div>
-
-                      <a
-                        href="property-single.php"
-                        class="btn btn-primary py-2 px-3"
-                        >See details</a
-                      >
-                    </div>
-                  </div>
-                </div>
-                <!-- JardimLeonor.item -->
-
-                <div class="property-item">
-                  <a href="CasaResidencialJardimLeonor.php" class="img">
                     <img src="images/Casa,ResidencialLeonor1.png" alt="Image" class="img-fluid" />
                   </a>
 
@@ -149,12 +115,47 @@
                       <a
                         href="CasaResidencialJardimLeonor.php"
                         class="btn btn-primary py-2 px-3"
-                        >See details</a
+                        >Ver mais</a
                       >
                     </div>
                   </div>
                 </div>
-                <!-- Vinhas da vista Alegre.item -->
+                <!-- .item -->
+
+                <div class="property-item">
+                  <a href="CasaResidencialJardimLeonor.php" class="img">
+                    <img src="images/CasaResidencialV2.png" alt="Image" class="img-fluid" />
+                  </a>
+                
+                <div class="property-content">
+                    <div class="price mb-2"><span>$250.000</span></div>
+                    <div>
+                      <span class="d-block mb-2 text-black-50"
+                        >Av. Hussein Genha, Barretos, São Paulo</span
+                      >
+                      <span class="city d-block mb-3">Casa, Residencial</span>
+
+                      <div class="specs d-flex mb-4">
+                        <span class="d-block d-flex align-items-center me-3">
+                          <span class="icon-bed me-2"></span>
+                          <span class="caption">2 quarto(s)</span>
+                        </span>
+                        <span class="d-block d-flex align-items-center">
+                          <span class="icon-bath me-2"></span>
+                          <span class="caption">1 banheiro(s)</span>
+                        </span>
+                      </div>
+
+                      <a
+                        href="CasaResidencialV.php"
+                        class="btn btn-primary py-2 px-3"
+                        >Ver mais</a
+                      >
+                    </div>
+                  </div>
+                </div>
+
+                <!-- .item -->
 
                 <div class="property-item">
                   <a href="CasaResidencialVistaAlegre.php" class="img">
@@ -183,7 +184,7 @@
                       <a
                         href="CasaResidencialVistaAlegre.php"
                         class="btn btn-primary py-2 px-3"
-                        >See details</a
+                        >Ver mais</a
                       >
                     </div>
                   </div>
@@ -217,7 +218,7 @@
                       <a
                         href="ApartamentoResidencialAracaju.php"
                         class="btn btn-primary py-2 px-3"
-                        >See details</a
+                        >Ver mais</a
                       >
                     </div>
                   </div>
@@ -251,7 +252,7 @@
                       <a
                         href="ApartamentoResidencialPassa.php"
                         class="btn btn-primary py-2 px-3"
-                        >See details</a
+                        >Ver mais</a
                       >
                     </div>
                   </div>
@@ -274,18 +275,18 @@
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
-                          <span class="caption">2 beds</span>
+                          <span class="caption">2 quarto(s)</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
                           <span class="icon-bath me-2"></span>
-                          <span class="caption">2 baths</span>
+                          <span class="caption">2 banheiro(s)</span>
                         </span>
                       </div>
 
                       <a
                         href="green_Gables_SãoFrancisco_EUA.php"
                         class="btn btn-primary py-2 px-3"
-                        >See details</a
+                        >Ver mais</a
                       >
                     </div>
                   </div>
@@ -294,32 +295,32 @@
 
                 <div class="property-item">
                   <a href="property-single.php" class="img">
-                    <img src="images/img_7.jpg" alt="Image" class="img-fluid" />
+                    <img src="images/ApartamentoResidencialJardimdaSaúde1.png" alt="Image" class="img-fluid" />
                   </a>
 
                   <div class="property-content">
-                    <div class="price mb-2"><span>$1,291,000</span></div>
+                    <div class="price mb-2"><span>$1.050.000</span></div>
                     <div>
                       <span class="d-block mb-2 text-black-50"
-                        >5232 California Fake, Ave. 21BC</span
+                        >Rua André Mendes, n°330, Apt. 62, Edifício Pégasus, Jardim da Saúde, São Paulo/SP</span
                       >
-                      <span class="city d-block mb-3">California, USA</span>
+                      <span class="city d-block mb-3">Apartamento, Residencial, Jardim da Saúde</span>
 
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
-                          <span class="caption">2 beds</span>
+                          <span class="caption">3 quarto(s)</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
                           <span class="icon-bath me-2"></span>
-                          <span class="caption">2 baths</span>
+                          <span class="caption">5 banheiro(s)</span>
                         </span>
                       </div>
 
                       <a
-                        href="property-single.php"
+                        href="ApartamentoResidencialJardimdaSaúde.php"
                         class="btn btn-primary py-2 px-3"
-                        >See details</a
+                        >Ver mais</a
                       >
                     </div>
                   </div>
@@ -328,32 +329,32 @@
 
                 <div class="property-item">
                   <a href="property-single.php" class="img">
-                    <img src="images/img_8.jpg" alt="Image" class="img-fluid" />
+                    <img src="images/CasaResidencialdasEstrelas1.png" alt="Image" class="img-fluid" />
                   </a>
 
                   <div class="property-content">
-                    <div class="price mb-2"><span>$1,291,000</span></div>
+                    <div class="price mb-2"><span>$1.830.000</span></div>
                     <div>
                       <span class="d-block mb-2 text-black-50"
-                        >5232 California Fake, Ave. 21BC</span
+                        >Alameda Régulus, nº 210, Loteamento Aldeia da Serra, Residencial Morada das Estrelas, Barueri/SP</span
                       >
-                      <span class="city d-block mb-3">California, USA</span>
+                      <span class="city d-block mb-3">Casa, Residencial, Residencial das Estrelas</span>
 
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
-                          <span class="caption">2 beds</span>
+                          <span class="caption">5 quarto(s)</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
                           <span class="icon-bath me-2"></span>
-                          <span class="caption">2 baths</span>
+                          <span class="caption">4 banheiro(s)</span>
                         </span>
                       </div>
 
                       <a
-                        href="property-single.php"
+                        href="CasaResidencialdasEstrelas.php"
                         class="btn btn-primary py-2 px-3"
-                        >See details</a
+                        >Ver mais</a
                       >
                     </div>
                   </div>
@@ -362,32 +363,32 @@
 
                 <div class="property-item">
                   <a href="property-single.php" class="img">
-                    <img src="images/img_1.jpg" alt="Image" class="img-fluid" />
+                    <img src="images/ApartamentoResidencialVilaAlpina1.png" alt="Image" class="img-fluid" />
                   </a>
 
                   <div class="property-content">
-                    <div class="price mb-2"><span>$1,291,000</span></div>
+                    <div class="price mb-2"><span>$700.000</span></div>
                     <div>
                       <span class="d-block mb-2 text-black-50"
-                        >5232 California Fake, Ave. 21BC</span
+                        >Rua Joaquim Pereira Pinto, n° 82, Apt 21, Edifício Eurosa, Vila Alpina, São Paulo/SP</span
                       >
-                      <span class="city d-block mb-3">California, USA</span>
+                      <span class="city d-block mb-3">Apartamento, Residencial, Vila Alpina</span>
 
                       <div class="specs d-flex mb-4">
                         <span class="d-block d-flex align-items-center me-3">
                           <span class="icon-bed me-2"></span>
-                          <span class="caption">2 beds</span>
+                          <span class="caption">3 quarto(s)</span>
                         </span>
                         <span class="d-block d-flex align-items-center">
                           <span class="icon-bath me-2"></span>
-                          <span class="caption">2 baths</span>
+                          <span class="caption">4 banheiro(s)</span>
                         </span>
                       </div>
 
                       <a
-                        href="property-single.php"
+                        href="ApartamentoResidencialVilaAlpina.php"
                         class="btn btn-primary py-2 px-3"
-                        >See details</a
+                        >Ver mais</a
                       >
                     </div>
                   </div>
@@ -436,7 +437,7 @@
                   <a
                     href="CasaResidencialAlphaville.php"
                     class="btn btn-primary py-2 px-3"
-                    >See details</a
+                    >Ver mais</a
                   >
                 </div>
               </div>
@@ -471,7 +472,7 @@
                   <a
                     href="ApartamentoResidencialSantaCecilia.php"
                     class="btn btn-primary py-2 px-3"
-                    >See details</a
+                    >Ver mais</a
                   >
                 </div>
               </div>
@@ -506,7 +507,7 @@
                   <a
                     href="CasaResidencialMorretes.php"
                     class="btn btn-primary py-2 px-3"
-                    >See details</a
+                    >Ver mais</a
                   >
                 </div>
               </div>
@@ -542,7 +543,7 @@
                   <a
                     href="CasaResidencialVilaBrasilioMachado.php"
                     class="btn btn-primary py-2 px-3"
-                    >See details</a
+                    >Ver mais</a
                   >
                 </div>
               </div>
@@ -552,32 +553,32 @@
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
             <div class="property-item mb-30">
               <a href="property-single.php" class="img">
-                <img src="images/img_5.jpg" alt="Image" class="img-fluid" />
+                <img src="images/CasaResidencialUep1.png" alt="Image" class="img-fluid" />
               </a>
 
               <div class="property-content">
-                <div class="price mb-2"><span>$1,291,000</span></div>
+                <div class="price mb-2"><span>$160.000</span></div>
                 <div>
                   <span class="d-block mb-2 text-black-50"
-                    >5232 California Fake, Ave. 21BC</span
+                    >Rua Antônio Pereira Telles, n° 170, Parque Shiraiwa, Presidente Prudente/SP</span
                   >
-                  <span class="city d-block mb-3">California, USA</span>
+                  <span class="city d-block mb-3">Casa, Residencial, Uep</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
                       <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <span class="caption">2 quarto(s)</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <span class="caption">1 banheiro(s)</span>
                     </span>
                   </div>
 
                   <a
-                    href="property-single.php"
+                    href="CasaResidencialUep.php"
                     class="btn btn-primary py-2 px-3"
-                    >See details</a
+                    >Ver mais</a
                   >
                 </div>
               </div>
@@ -587,32 +588,32 @@
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
             <div class="property-item mb-30">
               <a href="property-single.php" class="img">
-                <img src="images/img_6.jpg" alt="Image" class="img-fluid" />
+                <img src="images/CasaResidencialRuaCalógeroChinicci1.png" alt="Image" class="img-fluid" />
               </a>
 
               <div class="property-content">
-                <div class="price mb-2"><span>$1,291,000</span></div>
+                <div class="price mb-2"><span>$428.840</span></div>
                 <div>
                   <span class="d-block mb-2 text-black-50"
-                    >5232 California Fake, Ave. 21BC</span
+                    >Rua Calógero Chinicci, nº 513, Lote nº 09, Barra Funda, Leme, SP</span
                   >
-                  <span class="city d-block mb-3">California, USA</span>
+                  <span class="city d-block mb-3">Casa, Residencial</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
                       <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <span class="caption">3 quarto(s)</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <span class="caption">2 banheiro(s)</span>
                     </span>
                   </div>
 
                   <a
-                    href="property-single.php"
+                    href="CasaResidencialRuaCalógeroChinicci.php"
                     class="btn btn-primary py-2 px-3"
-                    >See details</a
+                    >Ver mais</a
                   >
                 </div>
               </div>
@@ -623,32 +624,32 @@
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
             <div class="property-item mb-30">
               <a href="property-single.php" class="img">
-                <img src="images/img_7.jpg" alt="Image" class="img-fluid" />
+                <img src="images/CasaResidencialSaoFrancisco1.png" alt="Image" class="img-fluid" />
               </a>
 
               <div class="property-content">
-                <div class="price mb-2"><span>$1,291,000</span></div>
+                <div class="price mb-2"><span>$265.000</span></div>
                 <div>
                   <span class="d-block mb-2 text-black-50"
-                    >5232 California Fake, Ave. 21BC</span
+                    >Rua Minas Gerais, Quadra 43, Lote 05, n° 1176, Loteamento Cidade de São Francisco, São Francisco/SP</span
                   >
-                  <span class="city d-block mb-3">California, USA</span>
+                  <span class="city d-block mb-3">Casa, Residencial, São Francisco</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
                       <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <span class="caption">4 quarto(s)</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <span class="caption">3 banheiro(s)</span>
                     </span>
                   </div>
 
                   <a
-                    href="property-single.php"
+                    href="CasaResidencialSaoFrancisco.php"
                     class="btn btn-primary py-2 px-3"
-                    >See details</a
+                    >Ver mais</a
                   >
                 </div>
               </div>
@@ -658,32 +659,32 @@
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
             <div class="property-item mb-30">
               <a href="property-single.php" class="img">
-                <img src="images/img_8.jpg" alt="Image" class="img-fluid" />
+                <img src="images/ApartamentoResidencialCampoBelo1.png" alt="Image" class="img-fluid" />
               </a>
 
               <div class="property-content">
-                <div class="price mb-2"><span>$1,291,000</span></div>
+                <div class="price mb-2"><span>$260.000</span></div>
                 <div>
                   <span class="d-block mb-2 text-black-50"
-                    >5232 California Fake, Ave. 21BC</span
+                    >Rua Ática, nº 420, Apt. 13, Condomínio Edifício Saint Marteen, Campo Belo, São Paulo/SP</span
                   >
-                  <span class="city d-block mb-3">California, USA</span>
+                  <span class="city d-block mb-3">Apartamento, Residencial, Campo Belo</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
                       <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <span class="caption">1 quarto(s)</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <span class="caption">1 banheiro(s)</span>
                     </span>
                   </div>
 
                   <a
-                    href="property-single.php"
+                    href="ApartamentoResidencialCampoBelo.php"
                     class="btn btn-primary py-2 px-3"
-                    >See details</a
+                    >Ver mais</a
                   >
                 </div>
               </div>
@@ -693,32 +694,32 @@
           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
             <div class="property-item mb-30">
               <a href="property-single.php" class="img">
-                <img src="images/img_1.jpg" alt="Image" class="img-fluid" />
+                <img src="images/ApartamentoResidencialJardimNovoHorizonte1.png" alt="Image" class="img-fluid" />
               </a>
 
               <div class="property-content">
                 <div class="price mb-2"><span>$1,291,000</span></div>
                 <div>
                   <span class="d-block mb-2 text-black-50"
-                    >5232 California Fake, Ave. 21BC</span
+                    >Rua Luis Sanzovo, nº 11, Apartamento 12-03, Torre 12, Quadra 1, Vaga 200, Residencial Portal Boa Vista, Jardim Dona Emília, Jaú, SP</span
                   >
-                  <span class="city d-block mb-3">California, USA</span>
+                  <span class="city d-block mb-3">Apartamento, Residencial, Jardim Novo Horizonte</span>
 
                   <div class="specs d-flex mb-4">
                     <span class="d-block d-flex align-items-center me-3">
                       <span class="icon-bed me-2"></span>
-                      <span class="caption">2 beds</span>
+                      <span class="caption">1 quarto(s)</span>
                     </span>
                     <span class="d-block d-flex align-items-center">
                       <span class="icon-bath me-2"></span>
-                      <span class="caption">2 baths</span>
+                      <span class="caption">1 banheiro(s)</span>
                     </span>
                   </div>
 
                   <a
-                    href="property-single.php"
+                    href="ApartamentoResidencialJardimNovoHorizonte.php"
                     class="btn btn-primary py-2 px-3"
-                    >See details</a
+                    >Ver mais</a
                   >
                 </div>
               </div>

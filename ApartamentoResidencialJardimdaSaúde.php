@@ -69,25 +69,25 @@
           <div class="col-lg-7">
             <div class="img-property-slide-wrap">
               <div class="img-property-slide">
-                <img src="images\postao_rua32_1.jpg" alt="Image" class="img-fluid" />
-                <img src="images\postao_rua32_2.jpg" alt="Image" class="img-fluid"  />
-                <img src="images\postao_rua32_3.jpg" alt="Image" class="img-fluid"  /> 
+                <img src="images/ApartamentoResidencialJardimdaSaúde1.png" alt="Image" class="img-fluid" />
+                <img src="images/ApartamentoResidencialJardimdaSaúde2.png" alt="Image" class="img-fluid" />
+                <img src="images/ApartamentoResidencialJardimdaSaúde3.png" alt="Image" class="img-fluid" />
               </div>
             </div>
           </div>
           <!-- Fim do Carousel -->
           <div class="col-lg-4">
             <!-- Informação do Imóvel -->
-            <h2 class="heading text-primary">Postão, não possuiu garagem porém possui vaga de carga e descarga!</h2>
-            <p class="meta">Bairro Baroni, Barretos-SP</p>
+            <h2 class="heading text-primary">Apartamento, Residencial, Jardim da Saúde, 3 vaga(s) de garagem</h2>
+            <p class="meta">Rua André Mendes, n°330, Apt. 62, Edifício Pégasus, Jardim da Saúde, São Paulo/SP, CEP: 04149-110</p>
             <p class="text-black-50">
-           Precisa de varias reformas, bem localizado.
+             Apartamento, Jardim da Saúde, Desocupado, contendo 3 suíte(s), 3 vaga(s) de garagem, 5 banheiro(s), 287.00 M² de área de terreno, 184.00 M² de área construída, 184.00 M² de área útil, 287.00 M² de área total. Matrícula nº 203136. IPTU anual R$ 7.521,00, valor de condomínio mensal R$ 1.754,00.
             </p>
             <!-- Fim Informação do Imóvel -->
 
             <div class="d-flex d-inline-flex d-block agent-box col-12">
               <div class="d-flex justify-content-center col-6 pt-3">
-                <h5 style="color: green">R$ 1.000</h5>
+                <h5 style="color: green">R$ 1.050.000</h5>
               </div>
               <div class="d-flex justify-content-center col-6">
                 <button type="button" class="btn btn-success">Comprar</button>

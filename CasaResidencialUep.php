@@ -69,25 +69,25 @@
           <div class="col-lg-7">
             <div class="img-property-slide-wrap">
               <div class="img-property-slide">
-                <img src="images\postao_rua32_1.jpg" alt="Image" class="img-fluid" />
-                <img src="images\postao_rua32_2.jpg" alt="Image" class="img-fluid"  />
-                <img src="images\postao_rua32_3.jpg" alt="Image" class="img-fluid"  /> 
+                <img src="images/CasaResidencialUep1.png" alt="Image" class="img-fluid" />
+                <img src="images/CasaResidencialUep2.png" alt="Image" class="img-fluid" />
+                <img src="images/CasaResidencialUep3.png" alt="Image" class="img-fluid" />
               </div>
             </div>
           </div>
           <!-- Fim do Carousel -->
           <div class="col-lg-4">
             <!-- Informação do Imóvel -->
-            <h2 class="heading text-primary">Postão, não possuiu garagem porém possui vaga de carga e descarga!</h2>
-            <p class="meta">Bairro Baroni, Barretos-SP</p>
+            <h2 class="heading text-primary">Casa, Residencial, Uep4-S.3, 2 dormitório(s), 1 vaga(s) de garagem</h2>
+            <p class="meta">Rua Antônio Pereira Telles, n° 170, Parque Shiraiwa, Presidente Prudente/SP, CEP 19063-190</p>
             <p class="text-black-50">
-           Precisa de varias reformas, bem localizado.
+              Casa, Uep4-S.3, Desocupado, contendo 2 dormitório(s), 1 vaga(s) de garagem, 1 banheiro(s), 142.00 M² de área de terreno, 47.00 M² de área construída, 47.00 M² de área útil, 142.00 M² de área total. Matrícula nº 32779.
             </p>
             <!-- Fim Informação do Imóvel -->
 
             <div class="d-flex d-inline-flex d-block agent-box col-12">
               <div class="d-flex justify-content-center col-6 pt-3">
-                <h5 style="color: green">R$ 1.000</h5>
+                <h5 style="color: green">R$ 160.000</h5>
               </div>
               <div class="d-flex justify-content-center col-6">
                 <button type="button" class="btn btn-success">Comprar</button>

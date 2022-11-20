@@ -69,25 +69,25 @@
           <div class="col-lg-7">
             <div class="img-property-slide-wrap">
               <div class="img-property-slide">
-                <img src="images\postao_rua32_1.jpg" alt="Image" class="img-fluid" />
-                <img src="images\postao_rua32_2.jpg" alt="Image" class="img-fluid"  />
-                <img src="images\postao_rua32_3.jpg" alt="Image" class="img-fluid"  /> 
+                <img src="images/ApartamentoResidencialJardimNovoHorizonte1.png" alt="Image" class="img-fluid" />
+                <img src="images/ApartamentoResidencialJardimNovoHorizonte2.png" alt="Image" class="img-fluid" />
+                <img src="images/ApartamentoResidencialJardimNovoHorizonte3.png" alt="Image" class="img-fluid" />
               </div>
             </div>
           </div>
           <!-- Fim do Carousel -->
           <div class="col-lg-4">
             <!-- Informação do Imóvel -->
-            <h2 class="heading text-primary">Postão, não possuiu garagem porém possui vaga de carga e descarga!</h2>
-            <p class="meta">Bairro Baroni, Barretos-SP</p>
+            <h2 class="heading text-primary">Apartamento, Residencial, Jardim Novo Horizonte, 1 dormitório(s), 1 vaga(s) de garagem</h2>
+            <p class="meta">Rua Luis Sanzovo, nº 11, Apartamento 12-03, Torre 12, Quadra 1, Vaga 200, Residencial Portal Boa Vista, Jardim Dona Emília, Jaú, SP, CEP: 17215-001</p>
             <p class="text-black-50">
-           Precisa de varias reformas, bem localizado.
+              Apartamento, Jardim Novo Horizonte, Desocupado, contendo 1 dormitório(s), 1 vaga(s) de garagem, 1 banheiro(s), 37.30 M² de área útil, 47.64 M² de área privativa, 31.92 M² de área comum, 79.56 M² de área total. Matrícula nº 81453, 1º CRI de Jahu/SP, Inscrição Prefeitura 6227110100278. IPTU anual R$ 27,52, valor de condomínio mensal R$ 202,63. Quadra poliesportiva, ampla área de lazer, possui torres com elevador e 1 vaga de garagem.
             </p>
             <!-- Fim Informação do Imóvel -->
 
             <div class="d-flex d-inline-flex d-block agent-box col-12">
               <div class="d-flex justify-content-center col-6 pt-3">
-                <h5 style="color: green">R$ 1.000</h5>
+                <h5 style="color: green">R$ 123.000</h5>
               </div>
               <div class="d-flex justify-content-center col-6">
                 <button type="button" class="btn btn-success">Comprar</button>

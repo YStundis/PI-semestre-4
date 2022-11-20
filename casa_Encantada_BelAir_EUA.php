@@ -70,8 +70,8 @@
             <div class="img-property-slide-wrap">
               <div class="img-property-slide">
                 <img src="images\the_One_Bel_Air_nos_Estados_Unidos.jpg" alt="Image" class="img-fluid" />
-                <!--<img src="images/Apartamento,Residencial,SantaCecilia,5vaga(s)degaragem2.png" alt="Image" class="img-fluid" /> -->
-                <!-- <img src="images/Apartamento,Residencial,SantaCecilia,5vaga(s)degaragem3.png" alt="Image" class="img-fluid" /> --> 
+                <images\casa_encantada_bel_air_2.jpg" alt="Image" class="img-fluid" />
+                <img src="images\casa_encantada_bel_air_3.jpg" alt="Image" class="img-fluid" />
               </div>
             </div>
           </div>

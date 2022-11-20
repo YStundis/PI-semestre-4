@@ -69,9 +69,9 @@
           <div class="col-lg-7">
             <div class="img-property-slide-wrap">
               <div class="img-property-slide">
-                <img src="images\the_One_Bel_Air_nos_Estados_Unidos.jpg" alt="Image" class="img-fluid" />
-                <img src="images\the_One_foto2.jpg" alt="Image" class="img-fluid"  />
-                <img src="images\the_One_foto3.jpg" alt="Image" class="img-fluid"  /> 
+                <img src="images\rancho_do_peao_1.jpg" alt="Image" class="img-fluid" />
+                <img src="images\rancho_do_peao_2.jpg" alt="Image" class="img-fluid"  />
+                <img src="images\rancho_do_peao_3.jpg" alt="Image" class="img-fluid"  /> 
               </div>
             </div>
           </div>

@@ -69,25 +69,25 @@
           <div class="col-lg-7">
             <div class="img-property-slide-wrap">
               <div class="img-property-slide">
-                <img src="images\estacao_cultural_barretos_1.jpg" alt="Image" class="img-fluid" />
-                <img src="images\estacao_cultural_barretos_2.jpg" /> 
-                <img src="images\estacao_cultural_barretos_3.jpg" />
+                <img src="images\clube_estrela_barretos.jpg" alt="Image" class="img-fluid" />
+                <img src="images\clube_estrela_barretos_2.jpg" /> 
+                <img src="images\clube_estrela_barretos_3.jpg" />
               </div>
             </div>
           </div>
           <!-- Fim do Carousel -->
           <div class="col-lg-4">
             <!-- Informação do Imóvel -->
-            <h2 class="heading text-primary">Estação cultural, garagens para trens e carros.</h2>
-            <p class="meta">Barretos, São Paulo-SP</p>
+            <h2 class="heading text-primary">Clube Estrela</h2>
+            <p class="meta">Barretos, São Paulo</p>
             <p class="text-black-50">
-           Antiga estação da Fepasa, é um prédio histórico muito bem localizado. Valor histórico incalculavel.
+            "Otimo local para dançar aquele forrózinho com a consagrada!"
             </p>
             <!-- Fim Informação do Imóvel -->
 
             <div class="d-flex d-inline-flex d-block agent-box col-12">
               <div class="d-flex justify-content-center col-6 pt-3">
-                <h5 style="color: green">R$ 10.000.000</h5>
+                <h5 style="color: green">R$ 9.000.000.000</h5>
               </div>
               <div class="d-flex justify-content-center col-6">
                 <button type="button" class="btn btn-success">Comprar</button>
